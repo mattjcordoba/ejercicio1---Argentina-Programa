@@ -1,0 +1,29 @@
+
+
+.navbar.navbar-expand-lg {
+    background-color: black;
+}
+
+.navbar-text {
+    color: aliceblue;
+}
+
+
+.logo-pequeño {
+    width: 30px;
+    height: 30px;
+}
+
+.logo-mediano {
+    width: 100px;
+    height: 100px;
+}
+
+.logo-grande {
+    width: 200px;
+    height: 200px;
+}
+
+#links-perfiles {
+    text-align: right;
+}
